@@ -6,9 +6,9 @@ pipeline {
             steps {
                 script{
                     withSonarQubeEnv("sonarqube"){
-                        dir("${env.WORKSPACE}/myapp"){
+                        dir("${env.WORKSPACE}"){
                             bat '''
-                                
+                                dir
                                 dotnet sonarscanner begin /k:"project-key-jenkins"
                                 dotnet build
                                 dotnet sonarscanner end
