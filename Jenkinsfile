@@ -9,7 +9,8 @@ pipeline {
                         dir("${env.WORKSPACE}"){
                             bat '''
                                 dir
-                                dotnet sonarscanner begin /k:"project-key-jenkins" /d:sonar.login="c9be09a62c4fed84d746a12827b844efad92ed85"
+                                dotnet tool install --global dotnet-sonarscanner
+                                dotnet sonarscanner begin /k:"project-key-jenkins"
                                 dotnet build
                                 dotnet sonarscanner end
                             '''
