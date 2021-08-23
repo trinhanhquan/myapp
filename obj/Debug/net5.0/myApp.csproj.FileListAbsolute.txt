@@ -1,0 +1,16 @@
+C:\Users\TRINH ANH QUAN\myApp\bin\Debug\net5.0\myApp.exe
+C:\Users\TRINH ANH QUAN\myApp\bin\Debug\net5.0\myApp.deps.json
+C:\Users\TRINH ANH QUAN\myApp\bin\Debug\net5.0\myApp.runtimeconfig.json
+C:\Users\TRINH ANH QUAN\myApp\bin\Debug\net5.0\myApp.runtimeconfig.dev.json
+C:\Users\TRINH ANH QUAN\myApp\bin\Debug\net5.0\myApp.dll
+C:\Users\TRINH ANH QUAN\myApp\bin\Debug\net5.0\ref\myApp.dll
+C:\Users\TRINH ANH QUAN\myApp\bin\Debug\net5.0\myApp.pdb
+C:\Users\TRINH ANH QUAN\myApp\obj\Debug\net5.0\myApp.csproj.AssemblyReference.cache
+C:\Users\TRINH ANH QUAN\myApp\obj\Debug\net5.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRINH ANH QUAN\myApp\obj\Debug\net5.0\myApp.AssemblyInfoInputs.cache
+C:\Users\TRINH ANH QUAN\myApp\obj\Debug\net5.0\myApp.AssemblyInfo.cs
+C:\Users\TRINH ANH QUAN\myApp\obj\Debug\net5.0\myApp.csproj.CoreCompileInputs.cache
+C:\Users\TRINH ANH QUAN\myApp\obj\Debug\net5.0\myApp.dll
+C:\Users\TRINH ANH QUAN\myApp\obj\Debug\net5.0\ref\myApp.dll
+C:\Users\TRINH ANH QUAN\myApp\obj\Debug\net5.0\myApp.pdb
+C:\Users\TRINH ANH QUAN\myApp\obj\Debug\net5.0\myApp.genruntimeconfig.cache
